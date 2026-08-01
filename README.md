@@ -40,6 +40,8 @@ The dataset consists of **70,000 labeled images** belonging to **10 clothing cat
 - Bag
 - Ankle boot
 
+  > **Note:** The original Fashion-MNIST dataset is not included in this repository because it exceeds GitHub's file size limit. Place the dataset as `data/raw/Fashion-MNIST.csv` before running the project.
+
 ---
 
 ## 🛠 Technologies
